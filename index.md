@@ -1,5 +1,5 @@
 ## Is Jared wearing pants?
-Yes
+No
 
-## Why?
-Today was laundry day so pants were the only option. 
+<!-- ## Why?
+Today was laundry day so pants were the only option. -->
