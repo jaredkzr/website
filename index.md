@@ -3,7 +3,7 @@ Yes
 
 
  ## Why?
-Seemed like a fun change for the day. 
+Seemed like a fun experience for the day. 
 
 
 <!-- ## Why?
