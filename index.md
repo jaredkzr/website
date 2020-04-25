@@ -1,8 +1,5 @@
 ## Is Jared wearing pants?
-Yes
-
-## Why?
-Just to shake things up a bit.
+No
 
 
 <!-- ## Why?
