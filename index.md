@@ -1,5 +1,5 @@
 ## Is Jared wearing pants?
-No
+Yes
 
 <!-- ## Why?
 He's got to have some semblance of getting ready for the day. -->
