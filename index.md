@@ -1,8 +1,6 @@
 ## Is Jared wearing pants?
-Yes
+No
 
-## Why?
-Establish dominance
 
 <!-- ## Why?
 He's got to have some semblance of getting ready for the day. -->
