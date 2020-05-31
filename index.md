@@ -1,5 +1,10 @@
 ## Is Jared wearing pants?
-No
+Yes
+
+## Why?
+Seems like fun!
+
+[Also here's a cute pup](https://i.imgur.com/ZVsKQei.gifv)
 
 
 <!-- ## Why?
