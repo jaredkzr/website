@@ -2,7 +2,7 @@
 Yes
 
 ## Why?
-He had to go to the store.
+Got to.
 
 <!-- ## Why?
 He's got to have some semblance of getting ready for the day. -->
